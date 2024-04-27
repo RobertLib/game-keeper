@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "checkJs": true,
+    "jsx": "react-jsx",
+    "paths": { "@types": ["./types"] },
+    "strictNullChecks": true,
+    "types": ["vitest/globals"]
+  }
+}
